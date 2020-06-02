@@ -1,5 +1,5 @@
 # Covid Impact Analysis
- CSE545 - Spring 2020 - Project
+ CSE544 - Spring 2020 - Project
 * Data Cleaning
 
 * EDA
